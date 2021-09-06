@@ -1,0 +1,29 @@
+[{
+    "display_name": "Dashboard",
+    "route": "/",
+    "icon": "fas fa-border-all"
+}, {
+    "display_name": "Customers",
+    "route": "/customers",
+    "icon": "fas fa-users"
+}, {
+    "display_name": "Products",
+    "route": "/products",
+    "icon": "fas fa-box-open"
+}, {
+    "display_name": "Orders",
+    "route": "/orders",
+    "icon": "fas fa-sort-amount-up-alt"
+}, {
+    "display_name": "Analytics",
+    "route": "/analytics",
+    "icon": "fas fa-chart-line"
+}, {
+    "display_name": "Category",
+    "route": "/category",
+    "icon": "fas fa-table"
+}, {
+    "display_name": "Discount",
+    "route": "/discount",
+    "icon": "fas fa-user"
+}]

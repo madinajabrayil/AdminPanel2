@@ -1,0 +1,13 @@
+[{
+    "icon": "user",
+    "content": "Profile"
+}, {
+    "icon": "wallet",
+    "content": "My Wallet"
+}, {
+    "icon": "cog",
+    "content": "Settings"
+}, {
+    "icon": "log-out-circle",
+    "content": "Logout"
+}]
